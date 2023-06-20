@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="backdoor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/backdoor_jar</output-path>
+    <root id="archive" name="backdoor.jar">
+      <element id="module-output" name="backdoor" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
